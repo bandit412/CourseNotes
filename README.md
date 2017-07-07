@@ -10,3 +10,4 @@ The following courses will be included in these course notes:
 * Web Development
 * Networking
 * Client-Server Programming
+* Systems Analysis and Design (SAD)
