@@ -11,3 +11,5 @@ The following courses will be included in these course notes:
 * Networking
 * Client-Server Programming
 * Systems Analysis and Design (SAD)
+* Communications
+* Programming Fundamentals
