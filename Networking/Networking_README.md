@@ -9,3 +9,4 @@ These notes contain material to augment networking concepts. Some of the concept
 * Users & Groups
 * File Security & File Sharing
 * IPv4 Subnetting
+* Intro to IPv6
