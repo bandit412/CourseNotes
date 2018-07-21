@@ -13,3 +13,7 @@ The following courses will be included in these course notes:
 * Systems Analysis and Design (SAD)
 * Communications
 * Programming Fundamentals
+
+## Optional Material
+* Game Development
+* Logic
