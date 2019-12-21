@@ -7,7 +7,8 @@ These notes are intended as augmented content for classes that I teach, or have 
 The following courses will be included in these course notes:
 
 * Math and Physics
-* Web Development
+* Web Development I
+* Web Development II
 * Networking
 * Client-Server Programming
 * Systems Analysis and Design (SAD)
